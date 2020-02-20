@@ -3,5 +3,7 @@
 - 前端 Vue / Element-UI
 - 後端 node / express / MongoDB
 
+- 登入帳號:test@gmail.com
+- 登入密碼:123456
 
 
