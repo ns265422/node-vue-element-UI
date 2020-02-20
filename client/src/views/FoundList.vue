@@ -142,7 +142,7 @@ export default {
   methods: {
     getProfile() {
       this.$axios('/api/profile').then(res => {
-        // this.tableData = res.data;
+        this.tableData = res.data;
         this.allTableData = res.data
         this.filterTableData = res.data
         // 設置分頁數據
